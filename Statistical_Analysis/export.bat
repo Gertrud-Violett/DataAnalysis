@@ -1,0 +1,1 @@
+jupyter nbconvert Statistical_Analysis.ipynb --to html --no-input --output your_report.html
